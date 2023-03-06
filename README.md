@@ -1,4 +1,4 @@
-https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47adc8fe4kq8qnh7y1q0fxj341fpupk9c8i871bjk3&rid=giphy.gif&ct=g
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47adc8fe4kq8qnh7y1q0fxj341fpupk9c8i871bjk3&rid=giphy.gif&ct=g">
 # 💫 About Me:
 <br>🌱 I’m currently learning android studio & flutter.<br>⚡ Fun fact - i'm very handsome
 
